@@ -55,7 +55,7 @@ color2 = (201, 146, 127)  # brown 2
 color3 = (101, 250, 52)  # green
 color4 = (255, 255, 255)  # white
 
-angleoffset = 270
+angleoffset = 270 #turn the output
 
 size = width, height = 1920, 1080  # display with/height
 pygame.init()  # init display
