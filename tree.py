@@ -172,4 +172,4 @@ if __name__ == '__main__':
     print "Finished"
     while (1):
         pass
-        exit() #uncommand
+        #exit() #uncommand
